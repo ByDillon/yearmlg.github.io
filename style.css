@@ -1,0 +1,187 @@
+.box {
+    height: 50px;
+    width: 495px;
+    background: wheat;
+    color: red;
+    text-align: center
+
+}
+
+.notbox {
+    width: 247px;
+    height: 100px;
+    background: wheat;
+    color: red;
+    text-align: center
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .header {
+    text-align: center;
+    height: 50px;
+    width: 495px;
+    padding:15px;
+    background:#ebebeb;
+
+}
+
+.nav {
+    text-align: center;
+    height: 50px;
+    width: 495px;
+    margin: auto;
+    padding:15px;
+    border-bottom:15px;
+    border-top:15px;
+    border-right: 15px;
+    border-left: 15px;
+    background:#ebebeb;
+}
+
+
+.section {
+    text-align: center;
+    height: 50px;
+    width: 495px;
+    margin: auto;
+    padding:15px;
+    border-bottom:15px;
+    border-top:15px;
+    border-right: 15px;
+    border-left: 15px;
+    background:#ebebeb;
+    float: left
+}
+
+/* .article {
+    text-align: center;
+    height: 50px;
+    width: 495px;
+    margin: auto;
+    padding:15px;
+    border-bottom:15px;
+    border-top:15px;
+    border-right: 15px;
+    border-left: 15px;
+    background:#ebebeb;
+} */
+
+/* .aside {
+    text-align: center;
+    height: 50px;
+    width: 495px;
+    margin: auto;
+    padding:15px;
+    border-bottom:15px;
+    border-top:15px;
+    border-right: 15px;
+    border-left: 15px;
+    background:#ebebeb;
+    float: right
+}
+
+.footer {
+    text-align: center;
+    height: 50px;
+    width: 495px;
+    margin: auto;
+    padding:15px;
+    border-bottom:15px;
+    border-top:15px;
+    border-right: 15px;
+    border-left: 15px;
+    background:#ebebeb; */
+
+
+/* Notes */
+
+/* .header {
+
+    text-align: center;
+    line-height:30px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background:#ebebeb;
+    color:#777;
+    padding:10px;
+    border: 1px solid gray;
+    border-bottom:5px;
+    height: 50px;
+} */
+/* text-align: center;
+    height: 50px;
+    border-bottom:15px;
+    border-top:15px;
+    border-right: 15px;
+    border-left: 15px;
+    padding:15px; */
+    /* .nav {
+
+        text-align: center;
+        line-height:30px;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        background:#ebebeb;
+        color:#777;
+        padding:10px;
+        border: 1px #777;
+        border-bottom:5px;
+        height: 50px;
+    }
+    
+    .footer {
+    
+        text-align: center;
+        line-height:30px;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+        background:#ebebeb;
+        color:#777;
+        padding:10px;
+        border: 1px solid gray;
+        border-bottom:5px;
+        width: '960px';
+        float: bottom; 
+        height: 50px;
+    } */
